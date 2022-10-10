@@ -70,12 +70,6 @@
 
 <div> 
 
-  <a href="https://instagram.com/cayo_henrique_250" target="_blank"><img style="margin-left:-10px;" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  <a href="https://contate.me/cayohenrique" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
-  <a href="mailto:chsf2@aluno.ifal.edu.br?subject=Hello%2C%20i'm%20from%20GitHub!&body=I'm..." target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
   ![Snake animation](https://github.com/oagarian/oagarian/blob/output/github-contribution-grid-snake.svg)
 
 </div>
