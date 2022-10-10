@@ -60,8 +60,6 @@
 
 ##
 
-<h2>contact me:</h2>
-
 <div>
 
   <img align="right" alt="gif" height="150px" style="border-radius:50px;" src="telefone.gif">
