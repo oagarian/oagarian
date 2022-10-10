@@ -60,11 +60,6 @@
 
 ##
 
-<div>
-
-  <img align="right" alt="gif" height="150px" style="border-radius:50px;" src="telefone.gif">
-
-</div>
 
 <div> 
 
