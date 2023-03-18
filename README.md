@@ -10,7 +10,7 @@
 
 ⌞Enjoyer.
 
-## Statistics
+## 📊 Statistics
 
 <div>
   <a href="https://github.com/oagarian">
@@ -22,7 +22,7 @@
 </div>
 </div> 
 
-## Knowledge
+## 👨‍🎓 Knowledge
   <h3>Languages</h3>
 <div style="display: inline_block">
   <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
@@ -42,7 +42,7 @@
   <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/discordjs/discordjs-original.svg" />
 </div>
 
-## Learning
+## 📚 Learning
  
   <h3>Languages</h3>
 
@@ -63,4 +63,10 @@
 </div>
   </div>
 
-
+## 📑 ToDo
+<ul>
+ <li>Master the "Learning" items</li>
+ <li>(Maybe) Migrate from Fiber to Echo</li>
+ <li>Finish unfinished projects</li>
+ <li>Go into business</li>
+</ul>
