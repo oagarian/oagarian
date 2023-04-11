@@ -17,7 +17,7 @@
   <div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oagarian&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oagarian&theme=radical&layout=compact"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=oagarian&theme=darkhub&margin-w=9&hide_border=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=oagarian&theme=darkhub&">
 </div>   
 </div>
 </div> 
