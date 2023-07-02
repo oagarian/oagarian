@@ -50,7 +50,7 @@
 
   
 <div style="display: inline_block">
-  <img height="30" src="https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JS&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
