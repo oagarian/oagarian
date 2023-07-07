@@ -42,11 +42,26 @@
   <img height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-  
+### 🎌 Languages
+<div style="display: flex; flex-direction: column; padding: 20px">
+ <img height="20" src="https://img.shields.io/badge/Fluent-green"/>
+ <img height="20" src="https://img.shields.io/badge/Intermediary-blue"/>
+ <img height="20" src="https://img.shields.io/badge/Basic-red"/>
+</div>
+ 
+
+<div style="display: inline_block">
+ <img height="20" src="https://img.shields.io/badge/Português-🇧🇷-green?style=flat-square"/>
+ <img height="20" src="https://img.shields.io/badge/English-🇺🇸-blue?style=flat-square"/>
+ <img height="20" src="https://img.shields.io/badge/Español-🇪🇸-red?style=flat-square"/>
+ <img height="20" src="https://img.shields.io/badge/Fench-%F0%9F%87%AB%F0%9F%87%B7-blue?color=red&style=flat-square"/>
+
+
+</div>
+
 </div>
 
 ## 📚 Learning
- 
 
   
 <div style="display: inline_block">
