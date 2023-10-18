@@ -53,7 +53,7 @@
  <img height="20" src="https://img.shields.io/badge/Português-🇧🇷-green?style=flat-square"/>
  <img height="20" src="https://img.shields.io/badge/English-🇺🇸-blue?style=flat-square"/>
  <img height="20" src="https://img.shields.io/badge/Español-🇪🇸-red?style=flat-square"/>
- <img height="20" src="https://img.shields.io/badge/Fench-%F0%9F%87%AB%F0%9F%87%B7-blue?color=red&style=flat-square"/>
+ <img height="20" src="https://img.shields.io/badge/French-%F0%9F%87%AB%F0%9F%87%B7-blue?color=red&style=flat-square"/>
 
 
 </div>
