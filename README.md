@@ -1,14 +1,9 @@
 # Thiago Natan da Silva
- _"Você fala muito para quem não sabe programar no bloco de notas"_
-
-
 
 - Web development
 - Software engineering
 - DevOps
 - Task automation
-
-⌞Enjoyer.
 
 ## 📊 Statistics
 
@@ -79,10 +74,3 @@
 
 </div>
   </div>
-
-## 📑 ToDo
-<ul>
- <li>Master the "Learning" items</li>
- <li>Finish unfinished projects</li>
- <li>Go into business</li>
-</ul>
